@@ -40,6 +40,9 @@ input {
   margin: 0.5rem auto;
   gap: 1rem;
 }
+i {
+  color: rgb(7, 245, 75);
+}
 button {
   padding: 0.5rem 1rem;
   color: black;
